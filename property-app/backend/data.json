@@ -1,0 +1,208 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Sunshine Villa",
+      "type": "Villa",
+      "price": 120000,
+      "location": "Goa",
+      "description": "Beautiful sea-facing villa with a private garden and swimming pool.",
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.124
+      },
+      "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353"
+    },
+    {
+      "id": 2,
+      "name": "Skyline Apartment",
+      "type": "Apartment",
+      "price": 65000,
+      "location": "Mumbai",
+      "description": "Modern apartment in the heart of the city with a great skyline view.",
+      "coordinates": {
+        "lat": 19.076,
+        "lng": 72.8777
+      },
+      "image": "https://images.unsplash.com/photo-1502672023488-70e25813eb80"
+    },
+    {
+      "id": 3,
+      "name": "Greenwood Office Space",
+      "type": "Office",
+      "price": 80000,
+      "location": "Bangalore",
+      "description": "Spacious office space located near tech park with parking facility.",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      },
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c"
+    },
+    {
+      "id": 4,
+      "name": "Riverfront Bungalow",
+      "type": "Villa",
+      "price": 150000,
+      "location": "Ahmedabad",
+      "description": "Luxurious bungalow facing the Sabarmati river, perfect for families.",
+      "coordinates": {
+        "lat": 23.0225,
+        "lng": 72.5714
+      },
+      "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf"
+    },
+    {
+      "id": 5,
+      "name": "Ocean Breeze Apartment",
+      "type": "Apartment",
+      "price": 70000,
+      "location": "Chennai",
+      "description": "Beachside apartment with fresh ocean breeze and modern amenities.",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      },
+      "image": "https://images.unsplash.com/photo-1598928506311-c55ded1d99f6"
+    },
+    {
+      "id": 6,
+      "name": "Downtown Corporate Office",
+      "type": "Office",
+      "price": 95000,
+      "location": "Delhi",
+      "description": "Premium office space in Connaught Place with high-speed internet.",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.209
+      },
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+    },
+    {
+      "id": 7,
+      "name": "Palm Grove Villa",
+      "type": "Villa",
+      "price": 130000,
+      "location": "Kochi",
+      "description": "Elegant villa surrounded by palm trees with a private pool.",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      },
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": 8,
+      "name": "TechPark Office Tower",
+      "type": "Office",
+      "price": 110000,
+      "location": "Hyderabad",
+      "description": "High-rise office tower with co-working spaces and conference halls.",
+      "coordinates": {
+        "lat": 17.385,
+        "lng": 78.4867
+      },
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+    },
+    {
+      "id": 9,
+      "name": "Lakeview Apartment",
+      "type": "Apartment",
+      "price": 60000,
+      "location": "Pune",
+      "description": "Cozy apartment with a stunning view of the city lake.",
+      "coordinates": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      },
+      "image": "https://images.unsplash.com/photo-1560448204-bb87d1c8f6d2"
+    },
+    {
+      "id": 10,
+      "name": "Heritage Bungalow",
+      "type": "Villa",
+      "price": 145000,
+      "location": "Jaipur",
+      "description": "Traditional Rajasthani-style bungalow with modern interiors.",
+      "coordinates": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      },
+      "image": "https://images.unsplash.com/photo-1613545328641-7f6f84cae353"
+    },
+    {
+      "id": 11,
+      "name": "City Center Apartment",
+      "type": "Apartment",
+      "price": 75000,
+      "location": "Lucknow",
+      "description": "Fully furnished apartment in the heart of the city.",
+      "coordinates": {
+        "lat": 26.8467,
+        "lng": 80.9462
+      },
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": 12,
+      "name": "Harborfront Office",
+      "type": "Office",
+      "price": 120000,
+      "location": "Visakhapatnam",
+      "description": "Office with panoramic view of the harbor and ocean breeze.",
+      "coordinates": {
+        "lat": 17.6868,
+        "lng": 83.2185
+      },
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df"
+    },
+    {
+      "id": 13,
+      "name": "Mountain View Villa",
+      "type": "Villa",
+      "price": 160000,
+      "location": "Manali",
+      "description": "Luxury villa with snow-capped mountain views and fireplace.",
+      "coordinates": {
+        "lat": 32.2396,
+        "lng": 77.1887
+      },
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+    },
+    {
+      "id": 14,
+      "name": "Garden Residency Apartment",
+      "type": "Apartment",
+      "price": 55000,
+      "location": "Indore",
+      "description": "Affordable apartment surrounded by lush green gardens.",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      },
+      "image": "https://images.unsplash.com/photo-1600585154242-3e22a9e4eac7"
+    },
+    {
+      "id": 15,
+      "name": "Elite Business Center",
+      "type": "Office",
+      "price": 135000,
+      "location": "Gurgaon",
+      "description": "Top-class office building with cafeteria, gym, and parking.",
+      "coordinates": {
+        "lat": 28.4595,
+        "lng": 77.0266
+      },
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df"
+    },
+    {
+      "id": 1756580982976,
+      "name": "madhav darshan",
+      "type": "Villa",
+      "price": "2344455",
+      "location": "bhavnagar",
+      "description": "huiidjwfuhefgygqe",
+      "image": "https://images.unsplash.com/photo-1754999809963-79a41e8fb648?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
